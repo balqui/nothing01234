@@ -1,0 +1,1 @@
+Seems I need now an extra 'hg update master' (that I never needed in the past) in order to make the master bookmark active and capture the committed changes. However, making the update after the commit loses the committed changes.
